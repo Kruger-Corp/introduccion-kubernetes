@@ -7,7 +7,7 @@ function Layout() {
   const [itemSelected, setItemSelected] = React.useState(null);
 
   async function getGames() {
-    const result = await fetch('db/db.json')
+    const result = await fetch('//localhost:3000/games')
     const list = await result.json();
     setGames(list);
   }
