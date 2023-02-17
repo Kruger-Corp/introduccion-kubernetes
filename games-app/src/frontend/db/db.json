@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Call of Dutty",
+    "views": "20k",
+    "description": "Una descripción del Juego",
+    "cover": "1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Assasins Creed",
+    "views": "20k",
+    "description": "Una descripción del Juego",
+    "cover": "2.jpg"
+  }
+]
