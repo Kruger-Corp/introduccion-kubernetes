@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Crossfire",
+    "views": "100k",
+    "description": "Es un juego de comando en primera persona gratuito que cuenta con dos corporaciones mercenarias llamadas Lista Negra y Riesgo Global, que se pelean entre sí en un épico conflicto global. Los jugadores asumen el papel de un mercenario de Black List o Global Risk, uniéndose a un equipo en línea que debe trabajar en conjunto para completar los escenarios basados en objetivos. Con la excepción del modo Zombie y el modo Wave, cada modo puede soportar un máximo de 16 jugadores, cada uno dividido en un equipo de 8 personas. Crossfire posee un sistema de progresión basado en Rangos Militares, empezando desde recluta, siendo el mayor rango el de Mariscal. Además, los jugadores pueden customizar el equipamiento de sus personajes a través de objetos dentro del juego.",
+    "cover": "1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dungeon Fighter",
+    "views": "60k",
+    "description": "Es un juego scrolling 2D de Acción con un corazón de MMORPG que ha sido publicado por Nexon. Este juego tiene un guiño a los juegos de la vieja escuela, como Golden Axe, y nos hará sentir un sentimiento retro único. Tenemos cientos de mapas por descubrir y miles de enemigos que derrotar. Tiene una opción PvP muy interesante y es un buen juego para los amantes del 2D scroll. En Dungeon Fighter Online podremos encontrar 6 clases que a partir de nivel 18 podremos especializar en varias clases avanzadas. En total hay más de 30 clases avanzadas con las que podremos aventurarnos tanto en PvE como en PvP.",
+    "cover": "2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Minecraft",
+    "views": "738k",
+    "description": "Es un videojuego de aventuras del tipo sandbox. El estilo se llama sandbox o libre porque proporciona un entorno creativo sin un objetivo fijo y con infinitas posibilidades. Enseña a los niños pensamiento creativo, geometría, e incluso, un poco de geología e ingeniería, mientras construyen y exploran mundos de creativas estructuras de bloques. Su diseño en bloques también es bastante infantil: las cabezas de los personajes son cuadradas, los colores aparecen en grandes trozos y los árboles parecen haber sido cultivados en un laboratorio de Lego.",
+    "cover": "3.png"
+  },
+  {
+    "id": 4,
+    "name": "World of Warcraft",
+    "views": "738k",
+    "description": "World of Warcraft tiene lugar en el mundo de Azeroth, aproximadamente cuatro después de los eventos que concluyen Warcraft III: The Frozen Throne. Desde su estreno, se han publicado un total de siete expansiones principales: The Burning Crusade, Wrath of the Lich King, Cataclysm, Mists of Pandaria, Warlords of Draenor, Legion y Battle for Azeroth.",
+    "cover": "4.jpg"
+  }
+]
